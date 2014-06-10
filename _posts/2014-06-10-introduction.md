@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Introduction
-permalink: 
+layout: default
 ---
 
 # Hello, world!
