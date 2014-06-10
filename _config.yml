@@ -1,0 +1,13 @@
+# Site settings
+title: Opinion on Epigenomics by Hyunwoo Cho
+email: hc27oclock@gmail.com
+description: "Epigenomics, R, Python, and much more"
+baseurl: ""
+url: "http://hc27oclock.github.io"
+
+# Build settings
+markdown:
+  kramdown
+kramdown:
+  input: GFM
+permalink: pretty
