@@ -7,6 +7,7 @@ permalink: /about/
 # Hyunwoo Cho
 
 Email: hc27oclock at gmail dot com
+Actively seeking entry-level Ph.D. jobs in the United States.
 
 # Projects
 
